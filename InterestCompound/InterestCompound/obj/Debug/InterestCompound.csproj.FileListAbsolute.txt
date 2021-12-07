@@ -1,0 +1,7 @@
+E:\URI\InterestCompound\InterestCompound\bin\Debug\InterestCompound.exe.config
+E:\URI\InterestCompound\InterestCompound\bin\Debug\InterestCompound.exe
+E:\URI\InterestCompound\InterestCompound\bin\Debug\InterestCompound.pdb
+E:\URI\InterestCompound\InterestCompound\obj\Debug\InterestCompound.csprojAssemblyReference.cache
+E:\URI\InterestCompound\InterestCompound\obj\Debug\InterestCompound.csproj.CoreCompileInputs.cache
+E:\URI\InterestCompound\InterestCompound\obj\Debug\InterestCompound.exe
+E:\URI\InterestCompound\InterestCompound\obj\Debug\InterestCompound.pdb

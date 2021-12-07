@@ -1,0 +1,13 @@
+E:\URI\URI1041\URI1041\bin\Debug\URI1041.exe.config
+E:\URI\URI1041\URI1041\bin\Debug\URI1041.exe
+E:\URI\URI1041\URI1041\bin\Debug\URI1041.pdb
+E:\URI\URI1041\URI1041\obj\Debug\URI1041.csprojAssemblyReference.cache
+E:\URI\URI1041\URI1041\obj\Debug\URI1041.csproj.CoreCompileInputs.cache
+E:\URI\URI1041\URI1041\obj\Debug\URI1041.exe
+E:\URI\URI1041\URI1041\obj\Debug\URI1041.pdb
+F:\URI\URI1041\URI1041\bin\Debug\URI1041.exe.config
+F:\URI\URI1041\URI1041\bin\Debug\URI1041.exe
+F:\URI\URI1041\URI1041\bin\Debug\URI1041.pdb
+F:\URI\URI1041\URI1041\obj\Debug\URI1041.csprojAssemblyReference.cache
+F:\URI\URI1041\URI1041\obj\Debug\URI1041.exe
+F:\URI\URI1041\URI1041\obj\Debug\URI1041.pdb

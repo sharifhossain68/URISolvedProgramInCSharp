@@ -1,0 +1,7 @@
+E:\URI\1013\1015\bin\Debug\1015.exe.config
+E:\URI\1013\1015\bin\Debug\1015.exe
+E:\URI\1013\1015\bin\Debug\1015.pdb
+E:\URI\1013\1015\obj\Debug\1015.csprojAssemblyReference.cache
+E:\URI\1013\1015\obj\Debug\1015.csproj.CoreCompileInputs.cache
+E:\URI\1013\1015\obj\Debug\1015.exe
+E:\URI\1013\1015\obj\Debug\1015.pdb

@@ -1,0 +1,7 @@
+E:\URI\URI1044\URI1044\bin\Debug\URI1044.exe.config
+E:\URI\URI1044\URI1044\bin\Debug\URI1044.exe
+E:\URI\URI1044\URI1044\bin\Debug\URI1044.pdb
+E:\URI\URI1044\URI1044\obj\Debug\URI1044.csprojAssemblyReference.cache
+E:\URI\URI1044\URI1044\obj\Debug\URI1044.csproj.CoreCompileInputs.cache
+E:\URI\URI1044\URI1044\obj\Debug\URI1044.exe
+E:\URI\URI1044\URI1044\obj\Debug\URI1044.pdb

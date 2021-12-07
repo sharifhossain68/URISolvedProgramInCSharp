@@ -1,0 +1,13 @@
+E:\URI\URI1010\Simp[eCal\bin\Debug\Simp[eCal.exe.config
+E:\URI\URI1010\Simp[eCal\bin\Debug\Simp[eCal.exe
+E:\URI\URI1010\Simp[eCal\bin\Debug\Simp[eCal.pdb
+E:\URI\URI1010\Simp[eCal\obj\Debug\Simp[eCal.csprojAssemblyReference.cache
+E:\URI\URI1010\Simp[eCal\obj\Debug\Simp[eCal.exe
+E:\URI\URI1010\Simp[eCal\obj\Debug\Simp[eCal.pdb
+E:\URI\URI1010\Simp[eCal\obj\Debug\Simp[eCal.csproj.CoreCompileInputs.cache
+F:\URI\URI1010\Simp[eCal\bin\Debug\Simp[eCal.exe.config
+F:\URI\URI1010\Simp[eCal\bin\Debug\Simp[eCal.exe
+F:\URI\URI1010\Simp[eCal\bin\Debug\Simp[eCal.pdb
+F:\URI\URI1010\Simp[eCal\obj\Debug\Simp[eCal.csprojAssemblyReference.cache
+F:\URI\URI1010\Simp[eCal\obj\Debug\Simp[eCal.exe
+F:\URI\URI1010\Simp[eCal\obj\Debug\Simp[eCal.pdb

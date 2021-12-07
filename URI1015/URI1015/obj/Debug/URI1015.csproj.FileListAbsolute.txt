@@ -1,0 +1,13 @@
+E:\URI\URI1015\URI1015\obj\Debug\URI1015.csprojAssemblyReference.cache
+E:\URI\URI1015\URI1015\obj\Debug\URI1015.csproj.CoreCompileInputs.cache
+E:\URI\URI1015\URI1015\bin\Debug\URI1015.exe.config
+E:\URI\URI1015\URI1015\bin\Debug\URI1015.exe
+E:\URI\URI1015\URI1015\bin\Debug\URI1015.pdb
+E:\URI\URI1015\URI1015\obj\Debug\URI1015.exe
+E:\URI\URI1015\URI1015\obj\Debug\URI1015.pdb
+F:\URI\URI1015\URI1015\bin\Debug\URI1015.exe.config
+F:\URI\URI1015\URI1015\bin\Debug\URI1015.exe
+F:\URI\URI1015\URI1015\bin\Debug\URI1015.pdb
+F:\URI\URI1015\URI1015\obj\Debug\URI1015.csprojAssemblyReference.cache
+F:\URI\URI1015\URI1015\obj\Debug\URI1015.exe
+F:\URI\URI1015\URI1015\obj\Debug\URI1015.pdb

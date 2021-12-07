@@ -1,0 +1,7 @@
+E:\URI\MargeSort\MargeSort\bin\Debug\MargeSort.exe.config
+E:\URI\MargeSort\MargeSort\bin\Debug\MargeSort.exe
+E:\URI\MargeSort\MargeSort\bin\Debug\MargeSort.pdb
+E:\URI\MargeSort\MargeSort\obj\Debug\MargeSort.csprojAssemblyReference.cache
+E:\URI\MargeSort\MargeSort\obj\Debug\MargeSort.csproj.CoreCompileInputs.cache
+E:\URI\MargeSort\MargeSort\obj\Debug\MargeSort.exe
+E:\URI\MargeSort\MargeSort\obj\Debug\MargeSort.pdb

@@ -1,0 +1,7 @@
+F:\URI\CSharpDeveloper\Solve-1\bin\Debug\Solve-1.exe.config
+F:\URI\CSharpDeveloper\Solve-1\bin\Debug\Solve-1.exe
+F:\URI\CSharpDeveloper\Solve-1\bin\Debug\Solve-1.pdb
+F:\URI\CSharpDeveloper\Solve-1\obj\Debug\Solve-1.csprojAssemblyReference.cache
+F:\URI\CSharpDeveloper\Solve-1\obj\Debug\Solve-1.csproj.CoreCompileInputs.cache
+F:\URI\CSharpDeveloper\Solve-1\obj\Debug\Solve-1.exe
+F:\URI\CSharpDeveloper\Solve-1\obj\Debug\Solve-1.pdb

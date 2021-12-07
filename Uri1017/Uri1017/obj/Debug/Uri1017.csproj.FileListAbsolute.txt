@@ -1,0 +1,6 @@
+E:\URI\Uri1017\Uri1017\bin\Debug\Uri1017.exe.config
+E:\URI\Uri1017\Uri1017\bin\Debug\Uri1017.exe
+E:\URI\Uri1017\Uri1017\bin\Debug\Uri1017.pdb
+E:\URI\Uri1017\Uri1017\obj\Debug\Uri1017.csproj.CoreCompileInputs.cache
+E:\URI\Uri1017\Uri1017\obj\Debug\Uri1017.exe
+E:\URI\Uri1017\Uri1017\obj\Debug\Uri1017.pdb

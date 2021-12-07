@@ -1,0 +1,6 @@
+F:\URI\CSharpDeveloper\Solve-2\bin\Debug\Solve-2.exe.config
+F:\URI\CSharpDeveloper\Solve-2\bin\Debug\Solve-2.exe
+F:\URI\CSharpDeveloper\Solve-2\bin\Debug\Solve-2.pdb
+F:\URI\CSharpDeveloper\Solve-2\obj\Debug\Solve-2.csproj.CoreCompileInputs.cache
+F:\URI\CSharpDeveloper\Solve-2\obj\Debug\Solve-2.exe
+F:\URI\CSharpDeveloper\Solve-2\obj\Debug\Solve-2.pdb

@@ -1,0 +1,7 @@
+F:\URI\1049\1049\bin\Debug\1049.exe.config
+F:\URI\1049\1049\bin\Debug\1049.exe
+F:\URI\1049\1049\bin\Debug\1049.pdb
+F:\URI\1049\1049\obj\Debug\1049.csproj.AssemblyReference.cache
+F:\URI\1049\1049\obj\Debug\1049.csproj.CoreCompileInputs.cache
+F:\URI\1049\1049\obj\Debug\1049.exe
+F:\URI\1049\1049\obj\Debug\1049.pdb

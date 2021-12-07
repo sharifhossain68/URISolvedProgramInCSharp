@@ -1,0 +1,6 @@
+E:\URI\URI1037\URI1037\bin\Debug\URI1037.exe.config
+E:\URI\URI1037\URI1037\bin\Debug\URI1037.exe
+E:\URI\URI1037\URI1037\bin\Debug\URI1037.pdb
+E:\URI\URI1037\URI1037\obj\Debug\URI1037.csproj.CoreCompileInputs.cache
+E:\URI\URI1037\URI1037\obj\Debug\URI1037.exe
+E:\URI\URI1037\URI1037\obj\Debug\URI1037.pdb

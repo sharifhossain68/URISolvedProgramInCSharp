@@ -1,0 +1,7 @@
+F:\URI\URI1050\URI1050\bin\Debug\URI1050.exe.config
+F:\URI\URI1050\URI1050\bin\Debug\URI1050.exe
+F:\URI\URI1050\URI1050\bin\Debug\URI1050.pdb
+F:\URI\URI1050\URI1050\obj\Debug\URI1050.csproj.AssemblyReference.cache
+F:\URI\URI1050\URI1050\obj\Debug\URI1050.csproj.CoreCompileInputs.cache
+F:\URI\URI1050\URI1050\obj\Debug\URI1050.exe
+F:\URI\URI1050\URI1050\obj\Debug\URI1050.pdb

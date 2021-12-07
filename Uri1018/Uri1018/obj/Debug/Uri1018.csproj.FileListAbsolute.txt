@@ -1,0 +1,7 @@
+E:\URI\Uri1018\Uri1018\bin\Debug\Uri1018.exe.config
+E:\URI\Uri1018\Uri1018\bin\Debug\Uri1018.exe
+E:\URI\Uri1018\Uri1018\bin\Debug\Uri1018.pdb
+E:\URI\Uri1018\Uri1018\obj\Debug\Uri1018.csproj.CoreCompileInputs.cache
+E:\URI\Uri1018\Uri1018\obj\Debug\Uri1018.exe
+E:\URI\Uri1018\Uri1018\obj\Debug\Uri1018.pdb
+E:\URI\Uri1018\Uri1018\obj\Debug\Uri1018.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\URI\URI1008Salary\URI1008Salary\bin\Debug\URI1008Salary.exe.config
+E:\URI\URI1008Salary\URI1008Salary\bin\Debug\URI1008Salary.exe
+E:\URI\URI1008Salary\URI1008Salary\bin\Debug\URI1008Salary.pdb
+E:\URI\URI1008Salary\URI1008Salary\obj\Debug\URI1008Salary.csprojAssemblyReference.cache
+E:\URI\URI1008Salary\URI1008Salary\obj\Debug\URI1008Salary.exe
+E:\URI\URI1008Salary\URI1008Salary\obj\Debug\URI1008Salary.pdb

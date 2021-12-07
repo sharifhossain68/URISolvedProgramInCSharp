@@ -1,0 +1,7 @@
+F:\URI\ContestBS23\ContestBS23\bin\Debug\ContestBS23.exe.config
+F:\URI\ContestBS23\ContestBS23\bin\Debug\ContestBS23.exe
+F:\URI\ContestBS23\ContestBS23\bin\Debug\ContestBS23.pdb
+F:\URI\ContestBS23\ContestBS23\obj\Debug\ContestBS23.csproj.AssemblyReference.cache
+F:\URI\ContestBS23\ContestBS23\obj\Debug\ContestBS23.csproj.CoreCompileInputs.cache
+F:\URI\ContestBS23\ContestBS23\obj\Debug\ContestBS23.exe
+F:\URI\ContestBS23\ContestBS23\obj\Debug\ContestBS23.pdb
